@@ -1,2 +1,1 @@
-# NFactorryBlog
-Exercice BLOG
+# BLOG
